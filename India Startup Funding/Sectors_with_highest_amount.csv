@@ -1,0 +1,604 @@
+,Sector,Amount($)
+0,"0    Fintech
+Name: Sector, dtype: object",195389099.82147866
+1,3D Printing,125833765.19765574
+2,AI,514647749.55369663
+3,AI & Data science,8000000.0
+4,AI & Debt,85860249.91073933
+5,AI & Deep learning,85860249.91073933
+6,AI & Media,3000000.0
+7,AI Chatbot,7500000.0
+8,AI Company,6000000.0
+9,AI Platform,8000000.0
+10,AI Robotics,281300.0
+11,AI Startup,85860249.91073933
+12,AI company,5000000.0
+13,AI health,350000.0
+14,AI platform,3000000.0
+15,AI startup,372936000.0
+16,API platform,4050000.0
+17,AR platform,7000000.0
+18,AR startup,1100000.0
+19,AR/VR,85860249.91073933
+20,AR/VR startup,1000000.0
+21,Accomodation,102060249.91073933
+22,Accounting,377501295.5929672
+23,Ad-tech,3000000.0
+24,Advertisement,1800000.0
+25,Advertising,503335060.79062295
+26,Advisory firm,0.0
+27,Aeorspace,1800000.0
+28,Aero company,85860249.91073933
+29,Aerospace,251667530.39531147
+30,AgTech,125833765.19765574
+31,Agri tech,500000.0
+32,AgriTech,738010749.732218
+33,Agriculture,1026670121.5812459
+34,Agritech,400070749.732218
+35,Agritech startup,5060000.0
+36,Agritech/Commerce,1000000.0
+37,Ai,31000000.0
+38,Ai & tech,20000000.0
+39,Air Transportation,125833765.19765574
+40,Alternative Medicine,125833765.19765574
+41,Analytics,507335060.79062295
+42,Android,125833765.19765574
+43,Apparel & Fashion,39200000.0
+44,Appliance,2879000.0
+45,Apps,2516675303.9531145
+46,Artificial Intelligence,1887506477.9648361
+47,Arts & Crafts,0.0
+48,Audio,125833765.19765574
+49,Augmented reality,0.0
+50,Auto-tech,85860249.91073933
+51,Automation,102810000.0
+52,Automation tech,500000.0
+53,Automobile,684509999.6429573
+54,Automobile & technology,5000000.0
+55,Automobile Technology,14700000.0
+56,Automobiles,124860249.91073933
+57,Automotive,4461568023.468542
+58,Automotive Startup,360000.0
+59,Automotive and Rentals,209000000.0
+60,Automotive company,85860249.91073933
+61,Automotive tech,54530000.0
+62,Autonomous Vehicles,251667530.39531147
+63,Aviation,3000000.0
+64,Aviation & Aerospace,500000.0
+65,Ayurveda tech,2000000.0
+66,B2B,1380641901.8872967
+67,B2B Agritech,12000000.0
+68,B2B E-commerce,51000000.0
+69,B2B Ecommerce,185000000.0
+70,B2B Manufacturing,2600000.0
+71,B2B Marketplace,1400000.0
+72,B2B Travel,2200000.0
+73,B2B marketplace,99660249.91073933
+74,B2B service,400000.0
+75,B2B startup,30000000.0
+76,B2b,4000000.0
+77,B2b supply chain,43330301.3
+78,Banking,1053836356.3835902
+79,Basketball,125833765.19765574
+80,Battery,125833765.19765574
+81,Battery design,2000000.0
+82,Battery manufacturer,2000000.0
+83,Beauty,507662060.79062295
+84,Beauty & wellness,150000.0
+85,Beauty products,65000000.0
+86,Beverage,21690000.0
+87,Beverages,109610249.91073933
+88,Big Data,629168825.9882786
+89,Bike Rental,125000.0
+90,Bike marketplace,2000000.0
+91,BioTechnology,280600000.0
+92,Biomaterial startup,1400000.0
+93,Biopharma,133333765.19765574
+94,Biotech,264000.0
+95,Biotechnology,925136356.3835902
+96,Biotechnology company,1200000.0
+97,Blockchain,139033765.19765574
+98,Blockchain startup,4050000.0
+99,Blogging,4100000.0
+100,Brand Marketing,251667530.39531147
+101,Broadcasting,125833765.19765574
+102,Business Development,125833765.19765574
+103,Business Intelligence,125833765.19765574
+104,Business Supplies & Equipment,300000.0
+105,Business Travel,125833765.19765574
+106,CRM,320000.0
+107,Cannabis startup,200000.0
+108,Capital Markets,13200000.0
+109,Car Service,86880249.91073933
+110,Car Trade,42500000.0
+111,Career Planning,251667530.39531147
+112,Catering,125833765.19765574
+113,Celebrity Engagement,1000000.0
+114,Child Care,251667530.39531147
+115,Children,251667530.39531147
+116,Classifieds,125833765.19765574
+117,Clean Energy,125833765.19765574
+118,CleanTech,144333765.19765574
+119,Cleantech,22000000.0
+120,Clothing,50000000.0
+121,Cloud Computing,503335060.79062295
+122,Cloud Infrastructure,125833765.19765574
+123,Cloud Kitchen,1000000.0
+124,Cloud company,5000000.0
+125,Cloud kitchen,175000000.0
+126,Co-living,56000000.0
+127,Co-working,91560249.91073933
+128,Co-working Startup,1000000.0
+129,Collaboration,251667530.39531147
+130,Commerce,1000000.0
+131,Commercial,125833765.19765574
+132,Commercial Real Estate,131833765.19765574
+133,Communities,251667530.39531147
+134,Community,810000.0
+135,Community platform,26000000.0
+136,Company-as-a-Service,3000000.0
+137,Computer,377501295.5929672
+138,Computer & Network Security,7000000.0
+139,Computer Games,2320000.0
+140,Computer Software,151300000.0
+141,Computer software,237700000.0
+142,Construction,233215000.0
+143,Construction tech,1100000.0
+144,Consultancy,15000000.0
+145,Consulting,396651295.5929672
+146,Consumer,377501295.5929672
+147,Consumer Applications,125833765.19765574
+148,Consumer Electronics,425701295.5929672
+149,Consumer Goods,772755310.7013623
+150,Consumer Lending,503335060.79062295
+151,Consumer Services,51900000.0
+152,Consumer appliances,9000000.0
+153,Consumer goods,0.0
+154,Consumer service,0.0
+155,Consumer software,1300000.0
+156,Content Marktplace,306900.0
+157,Content commerce,0.0
+158,Content creation,0.0
+159,Content management,3500000.0
+160,Content marketplace,4200000.0
+161,Content publishing,1000000.0
+162,Continuing Education,125833765.19765574
+163,Conversational AI platform,1500000.0
+164,Cooking,125833765.19765574
+165,Cosmetics,473429514.9298737
+166,Coworking,5940000.0
+167,Craft Beer,764000.0
+168,Creative Agency,125833765.19765574
+169,Credit,629168825.9882786
+170,Credit Cards,251667530.39531147
+171,Crowdfunding,377501295.5929672
+172,Crowdsourcing,126833765.19765574
+173,Crypto,261500000.0
+174,Cryptocurrency,143333765.19765574
+175,Cultural,300000.0
+176,Customer Service,377501295.5929672
+177,Customer service company,30000000.0
+178,Cybersecurity,4000000.0
+179,D2C,211000000.0
+180,D2C Business,150000000.0
+181,D2C Fashion,4000000.0
+182,D2C jewellery,24000000.0
+183,D2C startup,0.0
+184,Dairy,86260249.91073933
+185,Dairy startup,25000000.0
+186,Data Analytics,4000000.0
+187,Data Intelligence,1200000.0
+188,Data Science,85860249.91073933
+189,Dating,127843765.19765574
+190,Dating app,110000.0
+191,Deep Tech,1900000.0
+192,Deep Tech AI,85860249.91073933
+193,Deeptech,105260249.91073933
+194,Deeptech startup,5060000.0
+195,Defense & Space,0.0
+196,Defense tech,1000000.0
+197,Deisgning,500000.0
+198,Delivery,377501295.5929672
+199,Delivery Service,377501295.5929672
+200,Delivery service,40000000.0
+201,Dental,125833765.19765574
+202,Design,27000000.0
+203,Dietary Supplements,125833765.19765574
+204,Digital Entertainment,503335060.79062295
+205,Digital Marketing,125833765.19765574
+206,Digital Media,929723091.0074131
+207,Digital mortgage,1200000.0
+208,Digital platform,200000.0
+209,Digital tech,40000000.0
+210,Drone,3100000.0
+211,E store,60000000.0
+212,E tailor,85860249.91073933
+213,E-Commerce,2768342834.3484263
+214,E-Commerce Platforms,125833765.19765574
+215,E-Learning,1384171417.1742132
+216,E-commerce,3222492999.642957
+217,E-commerce & ar,43330301.3
+218,E-connect,2000000.0
+219,E-learning,308335000.0
+220,E-market,421860249.9107393
+221,E-marketplace,43480301.3
+222,E-mobility,95860249.91073933
+223,E-sports,100000.0
+224,E-tail,43700000.0
+225,EV,88860249.91073933
+226,EV startup,133900000.0
+227,Ecommerce,508216049.55369663
+228,EdTech,5204308355.669505
+229,EdTech Startup,8550000.0
+230,EdtTech,28000000.0
+231,Edtech,3836109228.393308
+232,Education,1525494682.3718688
+233,Education Management,19000000.0
+234,Electric Vehicle,125833765.19765574
+235,Electricity,7000000.0
+236,Electronics,46500000.0
+237,Embedded Systems,125833765.19765574
+238,Energy,629168825.9882786
+239,Enterprise Resource Planning (ERP),125833765.19765574
+240,Enterprise Software,125833765.19765574
+241,Entertainment,690612499.8214786
+242,Entreprenurship,85860249.91073933
+243,Environmental Consulting,125833765.19765574
+244,Environmental Services,1000000.0
+245,Environmental service,0.0
+246,Equity Management,3000000.0
+247,Escrow,400000.0
+248,Estore,3500000.0
+249,Events,125833765.19765574
+250,Eye Wear,3060000.0
+251,Eyeglasses,3000000.0
+252,Eyewear,347833765.19765574
+253,FM,5000000.0
+254,FMCG,175278499.82147866
+255,Facilities Services,200000.0
+256,Facilities Support Services,125833765.19765574
+257,Fantasy Sports,125833765.19765574
+258,Fantasy sports,600000.0
+259,Farming,151833765.19765574
+260,Fashion,970575841.0966737
+261,Fashion & Lifestyle,100000000.0
+262,Fashion Tech,467000.0
+263,Fashion and lifestyle,6000000.0
+264,Fashion startup,171720499.82147866
+265,FemTech,1000000.0
+266,Femtech,6000000.0
+267,Fertility tech,200000.0
+268,File Sharing,125833765.19765574
+269,FinTech,154784459529.6812
+270,Finance,2793233273.557803
+271,Finance company,113000000.0
+272,Financial Services,4949627895.13905
+273,Fintech,2079582459.7396114
+274,Fishery,4000000.0
+275,Fitness,971226606.2943295
+276,Fitness startup,174820499.82147866
+277,Food,556430249.5536966
+278,Food & Bevarages,6400000.0
+279,Food & Beverages,479989500.0
+280,Food & Logistics,2300000.0
+281,Food & nutrition,400000.0
+282,Food & tech,6000000.0
+283,Food Delivery,1289168825.9882786
+284,Food Industry,148460249.91073933
+285,Food Processing,251667530.39531147
+286,Food Production,2630000.0
+287,Food Startup,85860249.91073933
+288,Food and Beverage,2013340243.1624918
+289,Food and Beverages,40300000.0
+290,Food delivery,800000000.0
+291,Food devlivery,162000000.0
+292,Food diet,85860249.91073933
+293,Food tech,124730301.3
+294,FoodTech,137960249.91073933
+295,Foodtech,631047799.8214786
+296,Foodtech & Logistics,85860249.91073933
+297,Foootwear,1100000.0
+298,Fraud Detection,125833765.19765574
+299,Funding Platform,125833765.19765574
+300,Furniture,84000000.0
+301,Furniture Rental,10000000.0
+302,Fusion beverages,1000000.0
+303,Games,43330301.3
+304,Gaming,1116564514.9298737
+305,Gaming startup,96860249.91073933
+306,Government,125833765.19765574
+307,HR,2000000.0
+308,HR Tech,18340000.0
+309,HR Tech startup,1500000.0
+310,HR tech,123364249.91073933
+311,HRTech,3400000.0
+312,Hauz Khas,922000.0
+313,Healtcare,1300000.0
+314,Health,171531451.2107393
+315,Health & Wellness,257580749.732218
+316,Health Care,3271677895.139049
+317,Health Diagnostics,251667530.39531147
+318,Health Insurance,125833765.19765574
+319,Health and Fitness,115000000.0
+320,Health care,17500000.0
+321,"Health, Wellness & Fitness",409700000.0
+322,HealthCare,549500249.9107393
+323,HealthTech,1125911499.464436
+324,Healthcare,696831249.5536966
+325,Healthcare/Edtech,2800000.0
+326,Healthtech,903420099.2859147
+327,HeathTech,3200000.0
+328,Heathcare,21000000.0
+329,Helathcare,800000.0
+330,Higher Education,400000.0
+331,Home Decor,253667530.39531147
+332,Home Design,10000000.0
+333,Home interior services,8000000.0
+334,Home services,438000000.0
+335,Hospital,125833765.19765574
+336,Hospital & Health Care,248300000.0
+337,Hospitality,2297885560.6121016
+338,Housing,85860249.91073933
+339,Housing & Rentals,85860249.91073933
+340,Housing Marketplace,155000.0
+341,Hr tech,140500.0
+342,HrTech,85860249.91073933
+343,Human Resources,450501295.5929672
+344,Hygiene,1100000.0
+345,Hygiene management,85860249.91073933
+346,IT,89810000.0
+347,IT company,0.0
+348,IT startup,8600000.0
+349,Industrial,125833765.19765574
+350,Industrial Automation,273667530.3953115
+351,Information Services,760702591.1859344
+352,Information Technology,1272877651.9765573
+353,Information Technology & Services,713950000.0
+354,Infratech,20000000.0
+355,Innovation Management,1000000000.0
+356,Innovation management,500000.0
+357,Insurance,692177780.3060508
+358,Insurance Tech,1050000.0
+359,Insurance technology,91360249.91073933
+360,InsureTech,110000000.0
+361,Insuretech,252500000.0
+362,Insurtech,256060499.82147866
+363,Interior & decor,100000.0
+364,Interior Design,114000000.0
+365,Interior design,31000000.0
+366,Internet,1703238947.5695245
+367,Internet of Things,377501295.5929672
+368,Investment,887000.0
+369,Investment Banking,500000.0
+370,Investment Management,17000000.0
+371,Investment Tech,85860249.91073933
+372,IoT,277035499.82147866
+373,IoT platform,1000000.0
+374,IoT startup,5100000.0
+375,IoT/Automobile,293000.0
+376,Iot,43470301.3
+377,Jewellery,9090000.0
+378,Jewellery startup,12500000.0
+379,Job discovery platform,140000.0
+380,Job portal,126860249.91073933
+381,Last Mile Transportation,125833765.19765574
+382,Legal,85860249.91073933
+383,Legal Services,10000000.0
+384,Legal tech,100000.0
+385,LegalTech,91460249.91073933
+386,Legaltech,500000.0
+387,Life sciences,85860249.91073933
+388,Lifestyle,17000000.0
+389,Linguistic Spiritual,85860249.91073933
+390,Location Analytics,86860249.91073933
+391,Logistics,1335316045.3251853
+392,Logistics & Supply Chain,466470000.0
+393,Logitech,26354500.0
+394,Luxury car startup,85860249.91073933
+395,MLOps platform,1000000.0
+396,Machine Learning,85860249.91073933
+397,Management Consulting,1500000.0
+398,"Manchester, Greater Manchester",75000000.0
+399,Manufacturing,420871295.5929672
+400,Manufacturing startup,1500000.0
+401,MarTech,1000000.0
+402,Maritime,1600000.0
+403,Market Research,251667530.39531147
+404,Marketing,278367530.3953115
+405,Marketing & Advertising,12000000.0
+406,Marketing & customer loyalty,1000000.0
+407,Marketing company,700000.0
+408,Marketing startup,600000.0
+409,Marketplace,183130765.19765574
+410,Matrimony,3000000.0
+411,Mechanical & Industrial Engineering,150000000.0
+412,Mechanical Or Industrial Engineering,600400000.0
+413,Med Tech,229800.0
+414,Media,933578999.6429573
+415,Media & Networking,3000000.0
+416,Media Tech,400000.0
+417,Media and Entertainment,251667530.39531147
+418,Medical,251667530.39531147
+419,Medical Device,125833765.19765574
+420,Medtech,93760249.91073933
+421,Mental Health,85860249.91073933
+422,Merchandise,300000.0
+423,Micro-mobiity,3964000.0
+424,Milk startup,100000.0
+425,Mobile,377501295.5929672
+426,Mobile Games,1100000.0
+427,Mobile Payments,251667530.39531147
+428,Mobility,643840000.0
+429,Mobility tech,85860249.91073933
+430,Mobility/Transport,3300000.0
+431,Multinational conglomerate company,2200000000.0
+432,Music,129583765.19765574
+433,Music Streaming,125833765.19765574
+434,Mutual funds,600000.0
+435,NFT,4000000.0
+436,NFT Marketplace,0.0
+437,Nano Distribution Network,5660000.0
+438,Nanotechnology,127833765.19765574
+439,Neo-banking,85860249.91073933
+440,Networking,620000.0
+441,Networking platform,85860249.91073933
+442,News,125833765.19765574
+443,Nutrition,91860249.91073933
+444,Nutrition Tech,85860249.91073933
+445,Nutrition sector,500000.0
+446,Nutrition tech,133000.0
+447,OTT,22000000.0
+448,Oil & Energy,100000.0
+449,Oil and Energy,1000000.0
+450,Online Games,125833765.19765574
+451,Online Media,6850000.0
+452,Online Portals,125833765.19765574
+453,Online credit management startup,803146.0
+454,Online financial service,9000000.0
+455,Online storytelling,48000000.0
+456,PaaS startup,2000000.0
+457,Packaging Services,125833765.19765574
+458,Packaging solution startup,85860249.91073933
+459,Personal Care,6000000.0
+460,Personal care startup,2900000.0
+461,Pet care,39600000.0
+462,Pharma,85860249.91073933
+463,Pharmaceutical,116860249.91073933
+464,Pharmaceuticals,22000000.0
+465,Pharmacy,1400000.0
+466,Photonics startup,85860249.91073933
+467,Podcast,0.0
+468,Pollution control equiptment,1000000.0
+469,Power,5000000.0
+470,Preschool Daycare,507000.0
+471,Product studio,10000000.0
+472,Professional Training & Coaching,9200000.0
+473,Proptech,92860249.91073933
+474,Publication,173120499.82147866
+475,QSR startup,2000000.0
+476,Reading Apps,125833765.19765574
+477,Real Estate,203227577.91073933
+478,Real estate,350000.0
+479,Reatil startup,85860249.91073933
+480,Recruitment,117600000.0
+481,Recruitment startup,86860249.91073933
+482,Renewable Energy,198333765.19765574
+483,Renewable player,390000000.0
+484,Renewables & Environment,7000000.0
+485,Rental,261573530.39531147
+486,Rental space,6500000.0
+487,Retail,70756367530.39531
+488,Retail Aggregator,85860249.91073933
+489,Retail Tech,8000000.0
+490,Retail startup,900000.0
+491,Robotics,91860249.91073933
+492,Robotics & ai,230000000.0
+493,SaaS,1096156191.6051753
+494,SaaS platform,103050000.0
+495,SaaS startup,651665999.6429573
+496,SaaS/Edtech,323000.0
+497,SaaS  startup,85860249.91073933
+498,Saas,68330301.3
+499,Safety tech,43330301.3
+500,Sales & Services,19000000.0
+501,Sales and Distribution,1000000.0
+502,Sanitation solutions,19000000.0
+503,Scanning app,575000.0
+504,Search Engine,125833765.19765574
+505,Service industry,23000000.0
+506,Skill development,1000000.0
+507,Skincare startup,85860249.91073933
+508,Sles and marketing,4200000.0
+509,Smart Cities,125833765.19765574
+510,Sochcast is an Audio experiences company that give the listener and creators an Immersive Audio experience,0.0
+511,Social Commerce,93860249.91073933
+512,Social Media,870554265.0191344
+513,Social Network,85860249.91073933
+514,Social audio,3000000.0
+515,Social commerce,727050000.0
+516,Social community,3200000.0
+517,Social e-commerce,104760249.91073933
+518,Social media,308000000.0
+519,Social network,64000000.0
+520,Social platform,800000.0
+521,Software,631308825.9882786
+522,Software Company,25000000.0
+523,Software Startup,155000000.0
+524,Software company,15200000.0
+525,Soil-Tech,1000000.0
+526,Solar,131400000.0
+527,Solar Monitoring Company,85860249.91073933
+528,Solar SaaS,5000000.0
+529,Solar Solution,15000000.0
+530,Solar solution,16000000.0
+531,SpaceTech,25800000.0
+532,Spacetech,99008249.91073933
+533,Spiritual,4000000.0
+534,Sports,1222858081.6060507
+535,Sports startup,50400000.0
+536,SportsTech,4500000.0
+537,Staffing & Recruiting,3000000.0
+538,Startup laboratory,85860249.91073933
+539,Supply chain platform,3000000.0
+540,"Supply chain, Agritech",5900000.0
+541,TaaS startup,250000.0
+542,Taxation,280000.0
+543,Tech,880345399.464436
+544,Tech Startup,664913749.732218
+545,Tech company,3194420499.821479
+546,Tech hub,85860249.91073933
+547,Tech platform,10000000.0
+548,Tech startup,28400000.0
+549,Technology,191290551.2107393
+550,Techonology,11000000.0
+551,Telecommuncation,21000000.0
+552,Telecommunication,100000000.0
+553,Telecommunications,40000000.0
+554,Textiles,2570000.0
+555,Tobacco,3500000.0
+556,Tourism,378501295.5929672
+557,Tourism & EV,85860249.91073933
+558,Trading Platform,125833765.19765574
+559,Trading platform,2200000.0
+560,Training,125833765.19765574
+561,Translation & Localization,600000.0
+562,Transport,103078949.91073933
+563,Transport & Rentals,30000000.0
+564,Transport & rentals,4800000.0
+565,Transport Automation,39000000.0
+566,Transportation,625817530.3953115
+567,Travel,441701295.5929672
+568,Travel & SaaS,13000000.0
+569,Travel tech,85860249.91073933
+570,TravelTech,171720499.82147866
+571,Tyre management,85860249.91073933
+572,VR & SaaS,1397000.0
+573,Vehicle repair startup,1000000.0
+574,Venture Capital,225000000.0
+575,Venture Capital & Private Equity,65000000.0
+576,Venture capital,185860249.91073933
+577,Venture capitalist,279860249.9107393
+578,Veterinary,131333765.19765574
+579,Video,15000000.0
+580,Video communication,3000000.0
+581,Video personalization,4000000.0
+582,Video platform,85860249.91073933
+583,Video sharing platform,400000.0
+584,Video streaming platform,85860249.91073933
+585,Virtual auditing startup,120000.0
+586,Virtual banking,2100000.0
+587,Visual Media,2500000.0
+588,WL & RAC protection,900000.0
+589,Warehouse,54000.0
+590,Water purification,1600000.0
+591,Wealth Management,125833765.19765574
+592,Wedding,125833765.19765574
+593,Wellness,125833765.19765574
+594,Wholesale,3500000.0
+595,Wine & Spirits,10400000.0
+596,Work fulfillment,500000.0
+597,Yoga & wellness,174520499.82147866
+598,eMobility,1000000.0
+599,eSports,125833765.19765574
+600,sports,128233765.19765574
+601,—,3775012955.9296722
